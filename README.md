@@ -2,11 +2,7 @@
   <h1 style="font-weight:bold;">
     📊 Análisis estratégico para URAL AIRLINES
   </h1>
-<<<<<<< HEAD
   <img src="https://i.imgur.com/cgMPZKx.png" width="900px">
-=======
-  <img src="https://i.imgur.com/cgMPZKx.png" alt="Ural Airlines" width="900px">
->>>>>>> c6b1122640832fd37aa18a7143b6443130b70fb1
 </div>
 
 ---
