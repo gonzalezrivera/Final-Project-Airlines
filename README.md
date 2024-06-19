@@ -60,7 +60,7 @@ Requerimientos del Caso: Se requiere que los analistas desarrollen modelos de an
 
 ---
 
-### :computer: Tareas y Tecnologías:
+### :clipboard: Tareas 
 
 El proyecto se dividirá en las siguientes fases y tareas: 
 
@@ -87,9 +87,12 @@ Presentación de resultados a las partes interesadas utilizando visualizaciones 
 DB Brower for sqlite para la conversion del archivo sqlite a formato csv SQL: Para la consulta y gestión de bases de datos.
 Medidas de tendencia central y de dispersión.
 
-**Python:** Para análisis de datos, modelado predictivo, y visualización.
-**Librerías** Python: Pandas, Numpy, Matplotlib, Seaborn.
-**Power BI:** Para la creación de dashboards y visualizaciones interactivas.
+### :computer: Tecnologías:
+
+- 🗃️ **SQL.** Base de Datos
+- 🐍 **Python.** Para análisis de datos, modelado predictivo, y visualización. Librerías: Pandas, Numpy, Matplotlib, Seaborn.
+- 📊 **Power BI.** Para la creación de dashboards y visualizaciones interactivas.
+
 
 Este plan proporcionará una base sólida para abordar las preguntas de investigación y lograr los objetivos del proyecto, asegurando un análisis de datos efectivo y un impacto positivo en las operaciones de la aerolínea.
 
@@ -101,8 +104,5 @@ Este plan proporcionará una base sólida para abordar las preguntas de investig
 
 ---
 
-### 🚀 Tecnologías Utilizadas:
 
-- 🐍 **Python**
-- 🗃️ **SQL**
-- 📊 **Power BI**
+
