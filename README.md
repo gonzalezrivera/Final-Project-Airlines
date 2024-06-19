@@ -103,7 +103,6 @@ Este plan proporcionará una base sólida para abordar las preguntas de investig
 
 ### 🚀 Tecnologías Utilizadas:
 
-- 🐍 **Python** ![image](https://github.com/gonzalezrivera/Final-Project-Airlines/assets/166277360/7680c03a-c6fd-4f52-b832-ece2d38cb8ea)
-
+- 🐍 **Python**
 - 🗃️ **SQL**
 - 📊 **Power BI**
