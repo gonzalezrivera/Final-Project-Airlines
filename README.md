@@ -60,7 +60,7 @@ Requerimientos del Caso: Se requiere que los analistas desarrollen modelos de an
 
 ---
 
-### :clipboard: Tareas 
+### :clipboard: Tareas:
 
 El proyecto se dividirá en las siguientes fases y tareas: 
 
