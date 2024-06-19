@@ -34,14 +34,14 @@ Desarrollar un sistema de análisis de datos que mejore la gestión de operacion
 ### 	:file_cabinet: Fuentes de Datos
 
 El equipo trabajará con una base de datos proporcionada por el cliente que incluye múltiples tablas relacionadas con las operaciones de sus vuelos que comprenden el periodo de junio a septiembre de 2017. Estas tablas se integrarán en una base de datos interna que incluye múltiples tablas relacionadas con las operaciones de vuelo. Estas tablas son:
-  -*Aircrafts data:* Información sobre los aviones. 
-  -*Airports data:* Detalles de los aeropuertos.
-  -*Boarding passes:* Información sobre los boletos de embarque.
-  -*Bookings:* Datos de las reservaciones.
-  -*Flights:* Detalles de cada vuelo.
-  -*Seats:* Información sobre los asientos de los aviones. 
-  -*Tickets Flights:* Detalles de los boletos y los vuelos asociados.
-  -*Tickets:* Información sobre los boletos y los pasajeros.
+-*Aircrafts data:* Información sobre los aviones. 
+-*Airports data:* Detalles de los aeropuertos.
+-*Boarding passes:* Información sobre los boletos de embarque.
+-*Bookings:* Datos de las reservaciones.
+-*Flights:* Detalles de cada vuelo.
+-*Seats:* Información sobre los asientos de los aviones. 
+-*Tickets Flights:* Detalles de los boletos y los vuelos asociados.
+-*Tickets:* Información sobre los boletos y los pasajeros.
 
 ---
 
