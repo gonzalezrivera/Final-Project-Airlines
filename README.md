@@ -9,10 +9,7 @@
 
 ### ✈️ Descripción del Proyecto:
 
-<div class=text-justify><p>
 El proyecto se centra en la aerolínea rusa **"Ural Airlines"**, que enfrenta desafíos únicos en la optimización de operaciones y la mejora de la experiencia del pasajero. Como líder en el mercado de la aviación, Ural Airlines busca aprovechar el análisis de datos para abordar sus necesidades específicas y mejorar su eficiencia operativa, puntualidad de vuelos y satisfacción del cliente. La implementación de soluciones personalizadas basadas en datos permitirá a Ural Airlines mantener su posición competitiva y ofrecer un servicio excepcional a sus pasajeros.
-</div>
-
 
 ---
 
