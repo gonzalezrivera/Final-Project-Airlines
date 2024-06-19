@@ -13,25 +13,25 @@ El proyecto se centra en la aerolínea rusa **"Ural Airlines"**, que enfrenta de
 
 ---
 
-### Problemática:
+### :stop_sign: Problemática:
 
 El problema central es la ineficiencia en la gestión de vuelos, lo que resulta en retrasos, cancelaciones y una mala experiencia para los pasajeros. Este problema afecta la rentabilidad de las aerolíneas y su reputación en el mercado. Aunque existen soluciones tecnológicas en el mercado, muchas aerolíneas aún luchan por integrar estos sistemas de manera efectiva. Además, hay una creciente demanda de análisis predictivo para anticipar problemas y optimizar recursos.
 
 ---
 
-### Objetivo Principal:
+### 	:dart: Objetivo Principal:
 
 Desarrollar un sistema de análisis de datos que mejore la gestión de operaciones y optimice la experiencia del pasajero en aerolíneas. Esto incluye la elaboración de dashboards interactivos para el monitoreo en tiempo real, la optimización de recursos y el análisis detallado de datos de vuelo para identificar áreas de mejora. El valor agregado radica en la integración de múltiples fuentes de datos para proporcionar una visión holística y en tiempo real de las operaciones.
 
 ---
 
-### Resultados esperados & Impacto:
+### :chart_with_upwards_trend: Resultados esperados & Impacto:
 
 Desarrollar un sistema de análisis de datos que mejore la gestión de operaciones y optimice la experiencia del pasajero en aerolíneas. Esto incluye la elaboración de dashboards interactivos para el monitoreo en tiempo real, la optimización de recursos y el análisis detallado de datos de vuelo para identificar áreas de mejora. El valor agregado radica en la integración de múltiples fuentes de datos para proporcionar una visión holística y en tiempo real de las operaciones.
 
 ---
 
-### Fuentes de Datos
+### 	:file_cabinet: Fuentes de Datos
 
 El equipo trabajará con una base de datos proporcionada por el cliente que incluye múltiples tablas relacionadas con las operaciones de sus vuelos que comprenden el periodo de junio a septiembre de 2017. Estas tablas se integrarán en una base de datos interna que incluye múltiples tablas relacionadas con las operaciones de vuelo. Estas tablas son:
   Aircrafts data: Información sobre los aviones. 
@@ -45,13 +45,13 @@ El equipo trabajará con una base de datos proporcionada por el cliente que incl
 
 ---
 
-### Descripción de los Datos:
+### :card_file_box: Descripción de los Datos:
 
 Los datos se almacenan en un formato estructurado en una base de datos SQLite. Se hará la exportación en un archivo CSV para un mejor manejo. Los datos muestran información detallada sobre aviones, aeropuertos, vuelos, boletos, reservaciones y asientos. Esta información proviene de registros propios de la aerolínea y se actualizará periódicamente para asegurar la relevancia y precisión de los análisis.
 
 ---
 
-### Requerimentos del Caso:
+### :mag: Requerimentos del Caso:
 
 Requerimientos del Caso: Se requiere que los analistas desarrollen modelos de análisis predictivo y descriptivo para abordar preguntas críticas como:
   ¿Cuáles son los principales factores que contribuyen a los retrasos de los vuelos?
@@ -60,7 +60,7 @@ Requerimientos del Caso: Se requiere que los analistas desarrollen modelos de an
 
 ---
 
-### Tareas y Tecnologías:
+### :computer: Tareas y Tecnologías:
 
 El proyecto se dividirá en las siguientes fases y tareas: 
 
