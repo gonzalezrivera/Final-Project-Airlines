@@ -64,26 +64,26 @@ Requerimientos del Caso: Se requiere que los analistas desarrollen modelos de an
 
 El proyecto se dividirá en las siguientes fases y tareas: 
 
-**Recolección y Preparación de Datos:**
-Importación de datos desde la base de datos SQLite.
+1. **Recolección y Preparación de Datos:**
+Importación de datos desde la base de datos SQLite
 Uso herramienta DB Browser for SQLite para conversión a CSV
 Uso de Excel para una primera transformación de datos, que consiste en eliminar información en idioma ruso, la cual también existe en inglés.
 Limpieza y transformación de los datos, incluyendo datos nulos y faltantes, usando Python y sus librerías como Pandas y Numpy.
 
-**Análisis Exploratorio de Datos (EDA):**
+2. **Análisis Exploratorio de Datos (EDA):**
 Visualización de datos utilizando Matplotlib y Seaborn.
 Identificación de tendencias y patrones iniciales.
 Análisis descriptivo para entender las características de los datos.
 
-**Desarrollo de Dashboards:**
+3. **Desarrollo de Dashboards:**
 Creación de dashboards interactivos utilizando Power BI para la visualización periódica de métricas clave.
 Implementación de visualizaciones para el monitoreo continuo de operaciones y desempeño.
 
-**Documentación y Presentación:**
+4. **Documentación y Presentación:**
 Creación de un reporte detallado con los hallazgos y recomendaciones.
 Presentación de resultados a las partes interesadas utilizando visualizaciones claras y concisas.
 
-**Técnicas Estadísticas y Herramientas de Software:**
+5. **Técnicas Estadísticas y Herramientas de Software:**
 DB Brower for sqlite para la conversion del archivo sqlite a formato csv SQL: Para la consulta y gestión de bases de datos.
 Medidas de tendencia central y de dispersión.
 
