@@ -54,9 +54,9 @@ Los datos se almacenan en un formato estructurado en una base de datos SQLite. S
 ### :mag: Requerimentos del Caso:
 
 Requerimientos del Caso: Se requiere que los analistas desarrollen modelos de análisis predictivo y descriptivo para abordar preguntas críticas como:
-  ¿Cuáles son los principales factores que contribuyen a los retrasos de los vuelos?
-  ¿Cómo se puede optimizar la asignación de recursos en los vuelos y las rutas?
-  ¿Qué patrones se pueden identificar en los datos de reservas y boletos que puedan mejorar la experiencia del pasajero?
+- ¿Cuáles son los principales factores que contribuyen a los retrasos de los vuelos?
+- ¿Cómo se puede optimizar la asignación de recursos en los vuelos y las rutas?
+- ¿Qué patrones se pueden identificar en los datos de reservas y boletos que puedan mejorar la experiencia del pasajero?
 
 ---
 
