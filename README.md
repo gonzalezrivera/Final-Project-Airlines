@@ -34,14 +34,14 @@ Desarrollar un sistema de análisis de datos que mejore la gestión de operacion
 ### 	:file_cabinet: Fuentes de Datos
 
 El equipo trabajará con una base de datos proporcionada por el cliente que incluye múltiples tablas relacionadas con las operaciones de sus vuelos que comprenden el periodo de junio a septiembre de 2017. Estas tablas se integrarán en una base de datos interna que incluye múltiples tablas relacionadas con las operaciones de vuelo. Estas tablas son:
-  Aircrafts data: Información sobre los aviones. 
-  Airports data: Detalles de los aeropuertos.
-  Boarding passes: Información sobre los boletos de embarque.
-  Bookings: Datos de las reservaciones.
-  Flights: Detalles de cada vuelo.
-  Seats: Información sobre los asientos de los aviones. 
-  Tickets Flights: Detalles de los boletos y los vuelos asociados.
-  Tickets: Información sobre los boletos y los pasajeros.
+  **Aircrafts data:* Información sobre los aviones. 
+  **Airports data:* Detalles de los aeropuertos.
+  **Boarding passes:* Información sobre los boletos de embarque.
+  **Bookings:* Datos de las reservaciones.
+  **Flights:* Detalles de cada vuelo.
+  **Seats:* Información sobre los asientos de los aviones. 
+  **Tickets Flights:* Detalles de los boletos y los vuelos asociados.
+  **Tickets:* Información sobre los boletos y los pasajeros.
 
 ---
 
@@ -64,32 +64,32 @@ Requerimientos del Caso: Se requiere que los analistas desarrollen modelos de an
 
 El proyecto se dividirá en las siguientes fases y tareas: 
 
-Recolección y Preparación de Datos:
+**Recolección y Preparación de Datos:**
 Importación de datos desde la base de datos SQLite.
 Uso herramienta DB Browser for SQLite para conversión a CSV
 Uso de Excel para una primera transformación de datos, que consiste en eliminar información en idioma ruso, la cual también existe en inglés.
 Limpieza y transformación de los datos, incluyendo datos nulos y faltantes, usando Python y sus librerías como Pandas y Numpy.
 
-Análisis Exploratorio de Datos (EDA):
+**Análisis Exploratorio de Datos (EDA):**
 Visualización de datos utilizando Matplotlib y Seaborn.
 Identificación de tendencias y patrones iniciales.
 Análisis descriptivo para entender las características de los datos.
 
-Desarrollo de Dashboards:
+**Desarrollo de Dashboards:**
 Creación de dashboards interactivos utilizando Power BI para la visualización periódica de métricas clave.
 Implementación de visualizaciones para el monitoreo continuo de operaciones y desempeño.
 
-Documentación y Presentación:
+**Documentación y Presentación:**
 Creación de un reporte detallado con los hallazgos y recomendaciones.
 Presentación de resultados a las partes interesadas utilizando visualizaciones claras y concisas.
 
-Técnicas Estadísticas y Herramientas de Software:
+**Técnicas Estadísticas y Herramientas de Software:**
 DB Brower for sqlite para la conversion del archivo sqlite a formato csv SQL: Para la consulta y gestión de bases de datos.
 Medidas de tendencia central y de dispersión.
 
-Python: Para análisis de datos, modelado predictivo, y visualización.
-Librerías Python: Pandas, Numpy, Matplotlib, Seaborn.
-Power BI: Para la creación de dashboards y visualizaciones interactivas.
+**Python:** Para análisis de datos, modelado predictivo, y visualización.
+**Librerías** Python: Pandas, Numpy, Matplotlib, Seaborn.
+**Power BI:** Para la creación de dashboards y visualizaciones interactivas.
 
 Este plan proporcionará una base sólida para abordar las preguntas de investigación y lograr los objetivos del proyecto, asegurando un análisis de datos efectivo y un impacto positivo en las operaciones de la aerolínea.
 
