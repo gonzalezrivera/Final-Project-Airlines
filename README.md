@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-weight:bold;">
-    📊 Análisis estratégico para URAL AIRLINES
+    📊 Análisis estratégico para URAL AIRLINES📊
   </h1>
   <img src="https://i.imgur.com/cgMPZKx.png" width="900px">
   <br> 
